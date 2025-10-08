@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: HTB-Hacknet
 permalink: /htb-hacknet/
 ---
