@@ -1,6 +1,8 @@
+---
 layout: page
 title: "about"
 permalink: /about
+---
 
 # About N1ce1 
 
